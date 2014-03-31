@@ -1,0 +1,1 @@
+These libararies have been modified for use with the SuperMileage project. Place them in your Arduino X.X/libraries/ folder.
